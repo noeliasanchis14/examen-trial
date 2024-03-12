@@ -1,8 +1,7 @@
 examen-env
 *.ipynb
 .vscode
-*.xlsx
-*.csv
+
 
 
 
